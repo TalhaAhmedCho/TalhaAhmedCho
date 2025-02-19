@@ -1,5 +1,7 @@
 ### 🚀 Learning CSS, Git/GitHub & Digital Marketing
 
+<span style="font-family: Arial, sans-serif;">এই লেখা Arial ফন্টে হবে</span>
+
 <!--
 **TalhaAhmedCho/TalhaAhmedCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
