@@ -1,8 +1,10 @@
 ### 🚀 Learning CSS, Git/GitHub & Digital Marketing
 
-<span style="font-family: Arial, sans-serif;">এই লেখা Arial ফন্টে হবে</span>
+`Hello! How are you?`
 
 <!--
+<span style="font-family: Consolas">Hello! How are you?</span>
+
 **TalhaAhmedCho/TalhaAhmedCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
