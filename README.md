@@ -2,6 +2,8 @@
 
 `Hello! How are you?`
 
+<span style="font-family: Consolas">Hello! How are you?</span>
+
 <!--
 <span style="font-family: Consolas">Hello! How are you?</span>
 
