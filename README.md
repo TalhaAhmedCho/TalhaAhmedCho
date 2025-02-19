@@ -1,4 +1,4 @@
-## 🚀 Learning CSS, Git/GitHub & Digital Marketing
+#### 🚀 Learning CSS, Git/GitHub & Digital Marketing
 
 <!--
 **TalhaAhmedCho/TalhaAhmedCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
