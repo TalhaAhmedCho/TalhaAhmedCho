@@ -1,11 +1,8 @@
 ### 🚀 Learning CSS, Git/GitHub & Digital Marketing
 
-`Hello! How are you?`
-
-<span style="font-family: Consolas">Hello! How are you?</span>
+``Hello! How are you?``
 
 <!--
-<span style="font-family: Consolas">Hello! How are you?</span>
 
 **TalhaAhmedCho/TalhaAhmedCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
