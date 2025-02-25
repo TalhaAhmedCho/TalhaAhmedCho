@@ -37,5 +37,5 @@ Thank you for your **_time and consideration_**. I look forward to your positive
 
 Sincerely,
 
-Talha Ahmed Chowdhury
+Talha Ahmed Chowdhury <br>
 [Linkedin](https://www.linkedin.com/in/TalhaAhmedCho/) | [Facebook](https://www.facebook.com/@TalhaAhmedCho) | [YouTube](https://www.youtube.com/@TalhaAhmedCho) | [Twitter](https://x.com/_TalhaAhmedCho)
