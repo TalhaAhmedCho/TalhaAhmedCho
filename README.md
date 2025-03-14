@@ -1,4 +1,4 @@
-### 🚀 Learning CSS, Git/GitHub & Digital Marketing
+### 🚀 Learning Graphics Design, HTML, CSS & Digital Marketing
 
 `Hello! How are you?`
 
