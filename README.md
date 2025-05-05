@@ -1,4 +1,4 @@
-### 🚀 Learning Graphics Design, HTML, CSS & Digital Marketing
+### 🚀 Learning C/C++
 
 `Hello! How are you?`
 
