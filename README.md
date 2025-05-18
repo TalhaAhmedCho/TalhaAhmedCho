@@ -2,8 +2,6 @@
 [![roadmap.sh](https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=light)](https://roadmap.sh)
 
 
-
-
 <!--
 
 **TalhaAhmedCho/TalhaAhmedCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
