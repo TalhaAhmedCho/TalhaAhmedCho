@@ -26,7 +26,7 @@
 [![Flickr](https://img.shields.io/badge/Flickr-FF0084?style=for-the-badge&logo=flickr&logoColor=white)](https://flickr.com/people/197043667@N03)  
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/talhaahmedcho)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31uamwojru352wh4iaw64igpcwiq)
-[![Product Hunt](https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/@talhaahmedcho)
+[![Product Hunt](https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/@talhaahmedcho)  
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/talhaahmedcho)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://talhaahmedcho.itch.io)
 [![Viber](https://img.shields.io/badge/Viber-665CAC?style=for-the-badge&logo=viber&logoColor=white)](https://invite.viber.com/?g2=your_group_or_user_link)
