@@ -29,7 +29,7 @@
 [![Product Hunt](https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/@talhaahmedcho)  
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/talhaahmedcho)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://talhaahmedcho.itch.io)
-[![Viber](https://img.shields.io/badge/Viber-665CAC?style=for-the-badge&logo=viber&logoColor=white)](https://invite.viber.com/?g2=your_group_or_user_link)
+[![Viber](https://img.shields.io/badge/Viber-665CAC?style=for-the-badge&logo=viber&logoColor=white)](https://invite.viber.com/?g2=your_group_or_user_link)  
 [![Rumble](https://img.shields.io/badge/Rumble-339933?style=for-the-badge&logo=rumble&logoColor=white)](https://rumble.com/user/talhaahmedcho)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0066FF?style=for-the-badge)](https://bsky.app/profile/talhaahmedcho.bsky.social)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tahchma)
