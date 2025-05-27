@@ -36,29 +36,20 @@
 
 
 
-<table>
-  <tr>
-    <td><a href="https://replit.com/@TalhaAhmedCho"><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a></td>
-    <td><a href="https://flickr.com/people/197043667@N03"><img src="https://img.shields.io/badge/Flickr-FF0084?style=for-the-badge&logo=flickr&logoColor=white"></a></td>
-    <td><a href="https://soundcloud.com/talhaahmedcho"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://open.spotify.com/user/31uamwojru352wh4iaw64igpcwiq"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a></td>
-    <td><a href="https://www.producthunt.com/@talhaahmedcho"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"></a></td>
-    <td><a href="https://codesandbox.io/u/talhaahmedcho"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://talhaahmedcho.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a></td>
-    <td><a href="https://invite.viber.com/?g2=your_group_or_user_link"><img src="https://img.shields.io/badge/Viber-665CAC?style=for-the-badge&logo=viber&logoColor=white"></a></td>
-    <td><a href="https://rumble.com/user/talhaahmedcho"><img src="https://img.shields.io/badge/Rumble-339933?style=for-the-badge&logo=rumble&logoColor=white"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://bsky.app/profile/talhaahmedcho.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0066FF?style=for-the-badge"></a></td>
-    <td><a href="https://mastodon.social/@tahchma"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"></a></td>
-    <td></td>
-  </tr>
-</table>
-
+<p align="center">
+  <a href="https://replit.com/@TalhaAhmedCho"><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></a>
+  <a href="https://flickr.com/people/197043667@N03"><img src="https://img.shields.io/badge/Flickr-FF0084?style=for-the-badge&logo=flickr&logoColor=white" /></a>
+  <a href="https://soundcloud.com/talhaahmedcho"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/31uamwojru352wh4iaw64igpcwiq"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="https://www.producthunt.com/@talhaahmedcho"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" /></a>
+  <br>
+  <a href="https://codesandbox.io/u/talhaahmedcho"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
+  <a href="https://talhaahmedcho.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
+  <a href="https://invite.viber.com/?g2=your_group_or_user_link"><img src="https://img.shields.io/badge/Viber-665CAC?style=for-the-badge&logo=viber&logoColor=white" /></a>
+  <a href="https://rumble.com/user/talhaahmedcho"><img src="https://img.shields.io/badge/Rumble-339933?style=for-the-badge&logo=rumble&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/talhaahmedcho.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0066FF?style=for-the-badge" /></a>
+  <a href="https://mastodon.social/@tahchma"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
+</p>
 
 <!--
 
