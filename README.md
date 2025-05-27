@@ -23,7 +23,7 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/talhaahmedcho)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@TalhaAhmedCho)
 [![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@TalhaAhmedCho)
-[![Flickr](https://img.shields.io/badge/Flickr-FF0084?style=for-the-badge&logo=flickr&logoColor=white)](https://flickr.com/people/197043667@N03)
+[![Flickr](https://img.shields.io/badge/Flickr-FF0084?style=for-the-badge&logo=flickr&logoColor=white)](https://flickr.com/people/197043667@N03)  
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/talhaahmedcho)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31uamwojru352wh4iaw64igpcwiq)
 [![Product Hunt](https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/@talhaahmedcho)
