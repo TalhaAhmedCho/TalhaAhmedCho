@@ -13,6 +13,33 @@
   <img src="https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=light&t=20250528" alt="Roadmap Image" style="width: 350px; height: auto;" />
 </div>
 
+<style>
+  .image-container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .image-container img {
+    width: 350px;
+    height: auto;
+  }
+  @media (max-width: 768px) {
+    .image-container {
+      flex-direction: column;
+      align-items: center;
+    }
+    .image-container img {
+      width: 90%;
+      max-width: 350px;
+    }
+  }
+</style>
+
+<div class="image-container">
+  <img src="foreground.png" alt="Foreground Image" />
+  <img src="https://i.imgur.com/Nn1MHK4.png" alt="Background Image" />
+</div>
 
 
 
