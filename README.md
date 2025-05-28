@@ -1,8 +1,12 @@
 
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <h3>🚀 <code>Learning Basic C/C++ , Python & JavaScript । print(Automation is my ❤)</code></h3>
 
   <img src="https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=light&t=20250528" alt="Roadmap Image">
+
+  <img src="foreground.png" alt="Foreground Image" style="flex: 1 1 300px; max-width: 48%; height: auto;" />
+  <img src="https://i.imgur.com/Nn1MHK4.png" alt="Background Image" style="flex: 1 1 300px; max-width: 48%; height: auto;" />
+</div>
 </div>
 
 <!--
