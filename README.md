@@ -7,7 +7,7 @@
 
 <!-- Responsive side-by-side on desktop, stacked on mobile -->
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align: center;">
   <img src="https://i.imgur.com/Nn1MHK4.png" alt="Background Image" style="width: 350px; height: auto;" />
 </div>
 
