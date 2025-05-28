@@ -1,3 +1,4 @@
+<p align="center">
 ### `🚀 Learning Basic C/C++ , Python & JavaScript । print(Automation is my ❤)` 
 
 ![Roadmap Image](https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=light&t=20250527)
@@ -37,7 +38,7 @@
 -->
 
 
-<p align="center">
+
   <a href="https://replit.com/@TalhaAhmedCho"><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></a>
   <a href="https://flickr.com/people/197043667@N03"><img src="https://img.shields.io/badge/Flickr-FF0084?style=for-the-badge&logo=flickr&logoColor=white" /></a>
   <a href="https://soundcloud.com/talhaahmedcho"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
