@@ -117,6 +117,10 @@
   <a href="https://mastodon.social/@tahchma" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
 </p>
 
+<a href="https://linkedin.com/in/talha-ahmed-chowdhury-57502b229/" target="_blank" style="display: inline-flex; align-items: center; background-color: #0077B5; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none; font-family: sans-serif;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 8px;">
+  LinkedIn
+</a>
 
 
 <!--
