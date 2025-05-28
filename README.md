@@ -2,6 +2,7 @@
 
 ![Roadmap Image](https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=light&t=20250527)
 
+<!--
 ### `🔗 Stay Connected`
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tahchma)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/talhaahmedcho)
@@ -33,7 +34,7 @@
 [![Rumble](https://img.shields.io/badge/Rumble-339933?style=for-the-badge&logo=rumble&logoColor=white)](https://rumble.com/user/talhaahmedcho)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0066FF?style=for-the-badge)](https://bsky.app/profile/talhaahmedcho.bsky.social)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tahchma)
-
+-->
 
 
 <p align="center">
