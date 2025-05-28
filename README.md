@@ -8,9 +8,10 @@
 <!-- Responsive side-by-side on desktop, stacked on mobile -->
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="foreground.png" alt="Foreground Image" style="flex: 1 1 300px; max-width: 48%; height: auto;" />
-  <img src="https://i.imgur.com/Nn1MHK4.png" alt="Background Image" style="flex: 1 1 300px; max-width: 48%; height: auto;" />
+  <img src="foreground.png" alt="Foreground Image" style="flex: 1 1 300px; max-width: 300px; height: auto;" />
+  <img src="https://i.imgur.com/Nn1MHK4.png" alt="Background Image" style="flex: 1 1 300px; max-width: 300px; height: auto;" />
 </div>
+
 
 
 <!--
