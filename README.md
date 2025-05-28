@@ -78,7 +78,7 @@
   <a href="https://talhaahmedcho.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
   <a href="https://invite.viber.com/?g2=your_group_or_user_link" target="_blank"><img src="https://img.shields.io/badge/Viber-665CAC?style=for-the-badge&logo=viber&logoColor=white" alt="Viber"/></a>
   <a href="https://rumble.com/user/talhaahmedcho" target="_blank"><img src="https://img.shields.io/badge/Rumble-339933?style=for-the-badge&logo=rumble&logoColor=white" alt="Rumble"/></a>
-  <a href="https://bsky.app/profile/talhaahmedcho.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0066FF?style=for-the-badge" alt="Bluesky"/></a>
+  <a href="https://bsky.app/profile/talhaahmedcho.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0066FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
   <a href="https://mastodon.social/@tahchma" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
 
 </p>
