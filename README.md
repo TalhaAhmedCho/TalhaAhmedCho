@@ -45,7 +45,7 @@
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tahchma)
 -->
 
-
+### `🔗 Stay Connected`
 <p align="center">
   <a href="https://replit.com/@TalhaAhmedCho"><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></a>
   <a href="https://flickr.com/people/197043667@N03"><img src="https://img.shields.io/badge/Flickr-FF0084?style=for-the-badge&logo=flickr&logoColor=white" /></a>
