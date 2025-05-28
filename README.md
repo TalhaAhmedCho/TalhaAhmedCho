@@ -1,8 +1,17 @@
+
+<div align="center">
+  <h3>🚀 Learning Basic C/C++ , Python & JavaScript । <code>print(Automation is my ❤)</code></h3>
+
+  <img src="https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=light&t=20250527" alt="Roadmap Image">
+</div>
+
+<!--
 ### `🚀 Learning Basic C/C++ , Python & JavaScript । print(Automation is my ❤)` 
 
 ![Roadmap Image](https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=light&t=20250527)
 
-<!--
+
+
 ### `🔗 Stay Connected`
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tahchma)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/talhaahmedcho)
