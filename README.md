@@ -3,7 +3,7 @@
   <h3>🚀 <code>Learning Basic C/C++ , Python & JavaScript । print(Automation is my ❤)</code></h3>
 
   <img src="https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=light&t=20250528" alt="Roadmap Image">
-  <br>
+  <br> <h3>📈 <code>Latest Status</code></h3> <br>
   <img src="https://i.imgur.com/Nn1MHK4.png" alt="Background Image" style="width: 350px; height: auto;" />
 </div>
 
