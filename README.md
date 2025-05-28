@@ -3,11 +3,7 @@
   <h3>🚀 <code>Learning Basic C/C++ , Python & JavaScript । print(Automation is my ❤)</code></h3>
 
   <img src="https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=light&t=20250528" alt="Roadmap Image">
-</div>
 
-<!-- Responsive side-by-side on desktop, stacked on mobile -->
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align: center;">
   <img src="https://i.imgur.com/Nn1MHK4.png" alt="Background Image" style="width: 350px; height: auto;" />
 </div>
 
