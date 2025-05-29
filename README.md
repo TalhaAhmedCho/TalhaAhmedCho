@@ -6,9 +6,7 @@
 <div align="center">
   <h3>📈 <code>Latest Status</code></h3>
   <img src="https://i.imgur.com/Nn1MHK4.png" alt="Background Image" style="width: 350px; height: auto;" />
-</div>
 
-<div align="center">
   <h3>🔗 <code>Stay Connected</code></h3>
   <p align="center">
     <a href="https://linkedin.com/in/talha-ahmed-chowdhury-57502b229/?locale=bn_IN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
