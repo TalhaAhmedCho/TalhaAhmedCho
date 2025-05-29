@@ -1,6 +1,10 @@
-<div align="center">
-  <h3>🚀 <code>Learning Basic C/C++ , Python & JavaScript । print(Automation is my ❤)</code></h3>
-  <img src="https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=light&t=20250529" alt="Roadmap Image">
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 16px; flex-wrap: wrap;">
+  <div style="flex: 1 1 250px; min-width: 220px;">
+    <h3>🚀 <code>Learning Basic C/C++ , Python & JavaScript । print(Automation is my ❤)</code></h3>
+  </div>
+  <div style="flex: 0 1 350px; min-width: 220px;">
+    <img src="https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=light&t=20250529" alt="Roadmap Image" style="max-width: 100%; height: auto;" />
+  </div>
 </div>
 
 <div align="center">
