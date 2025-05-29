@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <br> <h3>📈 <code>Latest Status</code></h3>
+  <h3>📈 <code>Latest Status</code></h3>
   <img src="https://i.imgur.com/Nn1MHK4.png" alt="Background Image" style="width: 350px; height: auto;" />
 </div>
 
