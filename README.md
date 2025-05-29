@@ -1,8 +1,8 @@
 <div align="center">
-  <h3 align="left">🚀 <code>Learning Basic C/C++ , Python & JavaScript । print(Automation is my ❤)</code></h3>
+  <h3 align="left">🚀 <code>Learning Basic C/C++,<br>Python & JavaScript<br>print(Automation is my ❤)</code></h3>
   <img align="right" src="https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=light&t=20250529" alt="Roadmap Image">
 </div>
-
+<br> <br>
 <div align="center">
   <h3>📈 <code>Latest Status</code></h3>
   <img src="https://i.imgur.com/Nn1MHK4.png" alt="Background Image" style="width: 350px; height: auto;" />
