@@ -4,6 +4,7 @@
   <h3>🚀 <code>Learning Basic C/C++, Python & JavaScript । print(Automation is my ❤)</code></h3>
   <h3>🚀 <code>🚀 সাধারণ C/C++, Python এবং JavaScript শিখছি । print(Hello, World)</code></h3>
 -->
+  [![roadmap.sh](https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=dark&roadmaps=computer-science%2Cgit-github%2Cdevops)](https://roadmap.sh)
   <img src="https://roadmap.sh/card/wide/68248ea62755c70244fdcc1c?variant=light&t=20250609" alt="Roadmap Image">
 </div>
 
